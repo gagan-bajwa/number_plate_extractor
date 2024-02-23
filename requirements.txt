@@ -4,5 +4,5 @@ numpy
 scikit-learn
 opencv-python==4.5.5.64
 Pillow
-
+mypy-boto3-s3
 
